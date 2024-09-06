@@ -200,7 +200,7 @@ h2 {
     margin-top: 70px;
 }
 h3 {
-    margin-top: 60px;
+    margin-top: 30px;
     font-size: 1.3em;
     font-style: oblique;
     text-decoration: underline;
@@ -320,7 +320,6 @@ footer h4 a {
         display: flex;
         justify-content: center;
         align-items: center;
-        width: 80%;
     }
     #a_cel {
         display: flex;
@@ -411,7 +410,7 @@ footer h4 a {
         font-weight: 700;
         color: #193f37;
         border: none;
-        border-radius: 6px;
+        border-radius: 20px;
         cursor: pointer;
         font-size: 1.2em; 
         transition: transform .2s ease;
