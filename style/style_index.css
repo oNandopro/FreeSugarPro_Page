@@ -197,6 +197,15 @@ h2 {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 50px;
+}
+.p_name_offer {
+    text-align: center;
+    hyphens: auto;
+    font-size: 1.3em;
+}
+.p_name_offer p {
+    margin-top: 25px;
 }
 h3 {
     margin-top: 50px;
@@ -373,8 +382,11 @@ footer h4 a {
         margin-top: 10px;
     }
     h3 {
-        font-size: 0.8em;
+        font-size: 1em;
         margin-bottom: 20px;
+    }
+    .p_name_offer p {
+        font-size: 0.8em;
     }
     .button_buy {
         display: flex;
@@ -389,6 +401,7 @@ footer h4 a {
         flex-direction: column;
     }
     #guar {
+        margin-top: 30px;
         width: 200px;
     }
     #h3_guarantee {
@@ -456,6 +469,9 @@ footer h4 a {
         margin-top: 40px;
         margin-bottom: 20px;
         font-size: 5em;
+    }
+    .button_one {
+        display: none;
     }
     /* MAIN */
     /* SECTION ONE */
