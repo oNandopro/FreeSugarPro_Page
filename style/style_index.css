@@ -227,9 +227,9 @@ h3 {
     justify-content: center;
     align-items: center;
     margin-top: 80px;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.192);
     border-radius: 30px;
-    color: white;
+    color: black;
 }
 .div_guarantee {
     padding: 30px;
@@ -396,9 +396,11 @@ footer h4 a {
         font-size: 1.2em;
         text-align: center;
     }
+    .div_guarantee {
+        margin-bottom: 50px;
+    }
     .button_find_out {
-        display: flex;
-        text-align: center;
+        display: none;
     }
     .button_find_out button {
         margin-top: 50px;
