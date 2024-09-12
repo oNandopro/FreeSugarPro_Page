@@ -138,8 +138,10 @@ footer div p a {
         font-size: 1.2em;
         width: 300px;
     }
+    footer {
+        font-size: 0.6em;
+    }
     #container_footer {
-        font-size: 0.7em;
         height: 50px;
     }
 }
