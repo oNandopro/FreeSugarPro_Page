@@ -168,7 +168,7 @@ main {
     border-radius: 30px;
     width: 100%;
     height: 210px;
-    background-image: linear-gradient(#D5311E 50%, #FA4615,);
+    background: linear-gradient(#D5311E 20%, #FA4615);
     color: white;
     position: relative;
     margin-top: 50px;
